@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="305.90799"
+     inkscape:cy="606.32534"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:175.93377686px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#782121;fill-opacity:1;stroke:none;stroke-width:4.39834404"
+       x="-0.76918817"
+       y="178.48448"
+       id="text3715"
+       transform="scale(0.86383454,1.1576291)"><tspan
+         sodipodi:role="line"
+         id="tspan3713"
+         x="-0.76918817"
+         y="178.48448"
+         style="fill:#782121;stroke-width:4.39834404">GP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:176.17298889px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:4.40432453"
+       x="-9.0138712"
+       y="171.13542"
+       id="text3715-4"
+       transform="scale(0.86500911,1.1560572)"><tspan
+         sodipodi:role="line"
+         id="tspan3713-7"
+         x="-9.0138712"
+         y="171.13542"
+         style="fill:#ff8080;stroke-width:4.40432453">GP</tspan></text>
+  </g>
+</svg>
